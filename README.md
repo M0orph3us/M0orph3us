@@ -1,4 +1,4 @@
-![Cover](../imgs/profil.jpg)
+![Cover](./imgs/profil.jpg)
 
 - 👋 Hi, I’m @M0orph3us
 - 👀 I’m interested in ...
