@@ -9,7 +9,7 @@ Having successfully completed my first training as a Web and Mobile Web Develope
 
 # Contact
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gael-moreau)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gael-moreau/)
 
 # Languages & Tools :
 
